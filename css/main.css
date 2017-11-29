@@ -37,7 +37,7 @@ a {
 ul {
   margin: .3em;
   padding: .6em;
-  list-style: none;
+  list-style-type: none;
 }
 
 li {
